@@ -1,7 +1,7 @@
 GPT_MODEL = "gpt-4o"   # or "gpt-4o-mini/‑small/‑medium" per your quota
 
 # Repository root directory
-BASE_DIR = "/workspace/model-organisms-for-EM"
+BASE_DIR = "/content/model-organisms-for-EM"
 
 SEED = 0
 
